@@ -1,2 +1,2 @@
-# repo-infrastructure-prod
-Code for learning Terraform GitHub repo creation in terraform the environment
+# This is a prod terraform respository for infrastructure development. 
+Modified by: frankehle
